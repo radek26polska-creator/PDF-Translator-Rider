@@ -1,9 +1,6 @@
-venv/
-__pycache__/
-*.pyc
-projekt_*.txt
-*.pyd
-*.dll
-*.zip
 app/tools/pdf2zh/build/
-*.txt
+app/raport_projektu.txt
+*.pyd
+*.zip
+*.dll
+__pycache__/
